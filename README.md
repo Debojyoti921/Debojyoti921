@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debojyoti_Chakraborty
 - 👀 I’m interested in Cyber Security & Cyber Forensic
-- 🌱 I’m currently learning Masters in Computer Application
+- 🌱 I’m currently learning Masters in Computer Application Specialization in Cyber Security
 - 💞️ I’m looking to collaborate on Hacking
 - 📫 How to reach me 
 
